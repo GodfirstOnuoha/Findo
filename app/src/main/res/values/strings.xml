@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Findo</string>
+    <string name="title_activity_maps">Findo</string>
+    <string name="normal">Normal</string>
+    <string name="hybrid">Hybrid</string>
+    <string name="satellite">Satellite</string>
+    <string name="terrain">Terrain</string>
+</resources>
